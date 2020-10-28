@@ -1,0 +1,30 @@
+{
+    "SourceParam":[{
+        "src1":"val1",
+        "src2":"val2"},
+        {
+        "src3":"val3",
+        "src4":"val4"}
+    ],
+    "TargetParam":[{
+        "tgt1":"val1",
+        "tgt2":"val2"},
+        {
+        "tgt3":"val3",
+        "tgt4":"val4"}
+    ],
+    "DQ":[{
+        "rule1":"vals1"
+    }],
+        "DT":[{
+        "rule1":"vals1"
+    }],
+      "TESTPARAMS":[{
+        "rule1":"vals1"
+    }],
+    "DATAPARAMS":[{
+        "rule1":"vals1"
+    }],
+    "key1":"val1",
+    "key2":"val2"
+}
